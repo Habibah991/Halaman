@@ -171,7 +171,6 @@
 
 .infobuku {
     margin: 20px;
-    
 }
 
 .infobuku2 {
@@ -191,13 +190,8 @@
     display: flex; 
     flex-direction: row; 
     gap: 10px; 
-    color: grey;
-    
-    
-    
-    
+    color: grey;    
 }
-
 .komen {
     border: 1px solid black;
     border-radius: 20px;
@@ -211,12 +205,8 @@
     align-content: center;
     flex-direction: row;
     gap: 5px;
-    
     padding-top: 4px;
-    padding-bottom: 2px;
-    
-    
-    
+    padding-bottom: 2px;   
 }
 .bintang {
     border: 1px solid black;
@@ -231,23 +221,14 @@
     justify-content: center;
     gap: 5px;
     padding-top: 4px;
-    padding-bottom: 2px;
-    
+    padding-bottom: 2px;   
 }
-
-
 
 .infobuku5 {
     display: flex; 
     flex-direction: row; 
     gap: 10px;
-    
 }
-
-
-
-
-
 
 
 
@@ -260,8 +241,6 @@
     align-items: center;
     padding-bottom: 30px;
 }    
-
-
 .black2 {
     width: 940px;
     height: 80px;
@@ -272,7 +251,6 @@
     background-color: #2a2c2e;
     margin-top: -11px;
 }
-
 .big2 {
     color: white;
     align-items: center;
@@ -283,7 +261,6 @@
     flex-direction: row;
     gap: 15px;
 }
-
 .icons2 {
     justify-items: left;
     display: flex;
