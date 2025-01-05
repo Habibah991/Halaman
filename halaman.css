@@ -282,4 +282,19 @@
     font-size: 10px;
 }
 
+.group1 {
+    padding-left: 20px;
+    justify-content: left;
+}
+
+.group2 {
+    padding-right: 20px;
+    justify-content: right;
+    
+}
+.group1, .group2 {
+    display: flex;
+    gap: 16px;
+    flex: 1 1 auto;
+}
 
